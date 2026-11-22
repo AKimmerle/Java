@@ -1,6 +1,6 @@
 ## Java Projects
 
-These are all personally projects I made in the beginning for 2026 (Around Febuary 2026 to April 2026). Each project has a unique functionality and purpose that were served to be purely for fun and prepare me for my AP Computer Science A exam.
+These are all personally projects I made in the beginning for 2026 (Around February 2026 to April 2026). Each project has a unique functionality and purpose that are served to be purely for fun as well as prepare me for my AP Computer Science A exam.
 
 ## Features
 
